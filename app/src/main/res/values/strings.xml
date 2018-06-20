@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BottomNavViewWithFragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="long_Text">
+
+        This This This This This This This This This This This This This This This This This This This
+        This This This This This This This This This This This This This This This This This This This
+
+        IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+        IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+
+        The The The The The The The The The The The The The The The The The The The The The The The The
+        The The The The The The The The The The The The The The The The The The The The The The The The
+
+        Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last
+        Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last
+
+        Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment
+        Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment
+
+
+    </string>
+
+</resources>
